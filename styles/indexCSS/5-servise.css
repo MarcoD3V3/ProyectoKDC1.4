@@ -1,11 +1,9 @@
 .service-contenedor {
 	display: flex;
 	align-items: center;
-	background-color: #f45f;
 }
 .formulario-div {
 	width: 100%;
-	background-color: #54f;
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -32,7 +30,6 @@
 	writing-mode: none;
 	outline: none;
 	color: #555;
-	background-color: #fff;
 	-webkit-rtl-ordering: none;
 	column-span: none;
 	letter-spacing: -.2px;
